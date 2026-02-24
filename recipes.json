@@ -491,31 +491,31 @@
             {
               "no": 1,
               "name": "Dana Yağ",
-              "amount": "100",
+              "amount": "90",
               "unit": "Kg"
             },
             {
               "no": 2,
               "name": "Kuzu Kuyruk",
-              "amount": "10",
+              "amount": "20",
               "unit": "Kg"
             },
             {
               "no": 3,
               "name": "Kuzu Döş",
-              "amount": "15",
+              "amount": "0",
               "unit": "Kg"
             },
             {
               "no": 4,
-              "name": "Hindi Göğüs",
-              "amount": "70",
+              "name": "Kıyma",
+              "amount": "60",
               "unit": "Kg"
             },
             {
               "no": 5,
               "name": "Hindi But",
-              "amount": "70",
+              "amount": "120",
               "unit": "Kg"
             },
             {
@@ -539,13 +539,13 @@
             {
               "no": 9,
               "name": "Kapya Biber",
-              "amount": "25",
+              "amount": "20",
               "unit": "Kg"
             },
             {
               "no": 10,
               "name": "Karamel",
-              "amount": "0.5",
+              "amount": "0.4",
               "unit": "Kg"
             },
             {
@@ -557,31 +557,31 @@
             {
               "no": 12,
               "name": "Tuz",
-              "amount": "3.3",
+              "amount": "3.2",
               "unit": "Kg"
             },
             {
               "no": 13,
               "name": "Kimyon",
-              "amount": "1.8",
+              "amount": "1.5",
               "unit": "Kg"
             },
             {
               "no": 14,
               "name": "Karabiber",
-              "amount": "1.65",
+              "amount": "1.25",
               "unit": "Kg"
             },
             {
               "no": 15,
               "name": "Kekik",
-              "amount": "0.7",
+              "amount": "0.6",
               "unit": "Kg"
             },
             {
               "no": 16,
               "name": "Pul Biber",
-              "amount": "3.5",
+              "amount": "2.2",
               "unit": "Kg"
             },
             {
@@ -600,6 +600,18 @@
               "no": 19,
               "name": "Yumuşatıcı",
               "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 20,
+              "name": "sarımsak",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 21,
+              "name": "Soğan",
+              "amount": "25",
               "unit": "Kg"
             }
           ]
