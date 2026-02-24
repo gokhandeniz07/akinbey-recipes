@@ -8,196 +8,936 @@
           "id": "kofte_1",
           "name": "IZGARA / İNEGÖL / MİSKET KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 9, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 10, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Karabiber", "amount": "1.75", "unit": "Kg" },
-            { "no": 13, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 14, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 15, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 17, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 18, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "K.Toz Biber",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karabiber",
+              "amount": "1.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_2",
           "name": "TEKİRDAĞ KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 9, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 10, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Karabiber", "amount": "1.75", "unit": "Kg" },
-            { "no": 13, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 14, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 15, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Sarımsak Diş", "amount": "1.2", "unit": "Kg" },
-            { "no": 17, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 18, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 19, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "K.Toz Biber",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karabiber",
+              "amount": "1.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Sarımsak Diş",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_3",
           "name": "EL BASMA KÖFTE / İZMİR KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Maydanoz", "amount": "40", "unit": "Bağ" },
-            { "no": 9, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 10, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Karabiber", "amount": "1.75", "unit": "Kg" },
-            { "no": 13, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 14, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 15, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 16, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" },
-            { "no": 17, "name": "Diş Sarımsak", "amount": "1.25", "unit": "Kg" },
-            { "no": 18, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 19, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 20, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Maydanoz",
+              "amount": "40",
+              "unit": "Bağ"
+            },
+            {
+              "no": 9,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "K.Toz Biber",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karabiber",
+              "amount": "1.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Diş Sarımsak",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 20,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_4",
           "name": "KASAP KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 9, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 10, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 11, "name": "Karabiber", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 13, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 14, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 15, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Diş Sarımsak", "amount": "1.25", "unit": "Kg" },
-            { "no": 17, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 18, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 19, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "K.Toz Biber",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Karabiber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Diş Sarımsak",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_5",
           "name": "ADANA",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "100", "unit": "Kg" },
-            { "no": 2, "name": "Kuzu Kuyruk", "amount": "10", "unit": "Kg" },
-            { "no": 3, "name": "Kuzu Döş", "amount": "15", "unit": "Kg" },
-            { "no": 4, "name": "Hindi Göğüs", "amount": "70", "unit": "Kg" },
-            { "no": 5, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 6, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 7, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 8, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 9, "name": "Kapya Biber", "amount": "25", "unit": "Kg" },
-            { "no": 10, "name": "Karamel", "amount": "0.5", "unit": "Kg" },
-            { "no": 11, "name": "K.Toz Biber", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 13, "name": "Kimyon", "amount": "1.8", "unit": "Kg" },
-            { "no": 14, "name": "Karabiber", "amount": "1.65", "unit": "Kg" },
-            { "no": 15, "name": "Kekik", "amount": "0.7", "unit": "Kg" },
-            { "no": 16, "name": "Pul Biber", "amount": "3.5", "unit": "Kg" },
-            { "no": 17, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 18, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 19, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "100",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Kuzu Kuyruk",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Kuzu Döş",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Hindi Göğüs",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kapya Biber",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Karamel",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "K.Toz Biber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kimyon",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karabiber",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Kekik",
+              "amount": "0.7",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Pul Biber",
+              "amount": "3.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_6",
           "name": "HİNDİ HAMBURGER",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "110", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "110", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "60", "unit": "Kg" },
-            { "no": 4, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "Soğan", "amount": "20", "unit": "Kg" },
-            { "no": 7, "name": "Barbekü", "amount": "3", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "1.2", "unit": "Kg" },
-            { "no": 9, "name": "Sarımsak Diş", "amount": "2.5", "unit": "Kg" },
-            { "no": 10, "name": "Et Aroması", "amount": "0.8", "unit": "Kg" },
-            { "no": 11, "name": "T. Kırmızı Biber", "amount": "0.6", "unit": "Kg" },
-            { "no": 12, "name": "Kimyon", "amount": "2.5", "unit": "Kg" },
-            { "no": 13, "name": "Karabiber", "amount": "2", "unit": "Kg" },
-            { "no": 14, "name": "Kekik", "amount": "0.75", "unit": "Kg" },
-            { "no": 15, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 16, "name": "Karbonat", "amount": "1", "unit": "Kg" },
-            { "no": 17, "name": "Tütsü", "amount": "0.4", "unit": "Kg" },
-            { "no": 18, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 19, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 20, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "110",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "110",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "60",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Soğan",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Barbekü",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Sarımsak Diş",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Et Aroması",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "T. Kırmızı Biber",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Kimyon",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Karabiber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Kekik",
+              "amount": "0.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Karbonat",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Tütsü",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 20,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_7",
           "name": "KADINBUDU KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Pirinç (Haşlanmış)", "amount": "133", "unit": "Kg" },
-            { "no": 2, "name": "Kıyma Harmanlanmış", "amount": "133", "unit": "Kg" },
-            { "no": 3, "name": "Kıyma Yarı Pişmiş", "amount": "133", "unit": "Kg" },
-            { "no": 4, "name": "Dana Yağ", "amount": "25", "unit": "Kg" },
-            { "no": 5, "name": "Hindi Kırıntı", "amount": "33.5", "unit": "Kg" },
-            { "no": 6, "name": "Tuz", "amount": "1.4", "unit": "Kg" },
-            { "no": 7, "name": "K.Toz Biber", "amount": "0.73", "unit": "Kg" },
-            { "no": 8, "name": "Karabiber", "amount": "0.5", "unit": "Kg" },
-            { "no": 9, "name": "Kimyon", "amount": "0.5", "unit": "Kg" },
-            { "no": 10, "name": "Sarımsak Granül", "amount": "0.44", "unit": "Kg" },
-            { "no": 11, "name": "Soğan Toz Granül", "amount": "1.45", "unit": "Kg" },
-            { "no": 12, "name": "Patates Fiber", "amount": "7.35", "unit": "Kg" },
-            { "no": 13, "name": "Su", "amount": "44", "unit": "Kg" },
-            { "no": 14, "name": "Et Aroması", "amount": "0.4", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Pirinç (Haşlanmış)",
+              "amount": "133",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Kıyma Harmanlanmış",
+              "amount": "133",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Kıyma Yarı Pişmiş",
+              "amount": "133",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Yağ",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Hindi Kırıntı",
+              "amount": "33.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Tuz",
+              "amount": "1.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "K.Toz Biber",
+              "amount": "0.73",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karabiber",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kimyon",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sarımsak Granül",
+              "amount": "0.44",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soğan Toz Granül",
+              "amount": "1.45",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Patates Fiber",
+              "amount": "7.35",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Su",
+              "amount": "44",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Et Aroması",
+              "amount": "0.4",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "kofte_8",
           "name": "MOZZARELLA KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "70", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Turunç", "amount": "3", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "1", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 9, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 10, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Kimyon", "amount": "1.5", "unit": "Kg" },
-            { "no": 12, "name": "Karabiber", "amount": "1.25", "unit": "Kg" },
-            { "no": 13, "name": "Kekik", "amount": "0.5", "unit": "Kg" },
-            { "no": 14, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 15, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Mozarella", "amount": "30", "unit": "Kg" },
-            { "no": 17, "name": "Ekmek", "amount": "10", "unit": "Kg" },
-            { "no": 18, "name": "Su", "amount": "15", "unit": "Kg" },
-            { "no": 19, "name": "Yumuşatıcı", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "70",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Turunç",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "K.Toz Biber",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Kimyon",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karabiber",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kekik",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Mozarella",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Ekmek",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Su",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 19,
+              "name": "Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -210,75 +950,330 @@
           "id": "sarma_1",
           "name": "SEBZELİ KEBAP",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Et", "amount": "180", "unit": "Kg" },
-            { "no": 3, "name": "Tuz", "amount": "3", "unit": "Kg" },
-            { "no": 4, "name": "Lif Multifix", "amount": "4", "unit": "Kg" },
-            { "no": 5, "name": "K.Toz Biber", "amount": "1.5", "unit": "Kg" },
-            { "no": 6, "name": "Kimyon", "amount": "1.8", "unit": "Kg" },
-            { "no": 7, "name": "Karabiber", "amount": "1.65", "unit": "Kg" },
-            { "no": 8, "name": "Kekik", "amount": "0.3", "unit": "Kg" },
-            { "no": 9, "name": "Toz Karbonat", "amount": "1.8", "unit": "Kg" },
-            { "no": 10, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 11, "name": "Sarımsak", "amount": "0.3", "unit": "Kg" },
-            { "no": 12, "name": "Karamel", "amount": "1", "unit": "Kg" },
-            { "no": 13, "name": "Barbekü", "amount": "1.5", "unit": "Kg" },
-            { "no": 14, "name": "Yeşil Biber", "amount": "20", "unit": "Kg" },
-            { "no": 15, "name": "Kırmızı Biber", "amount": "20", "unit": "Kg" },
-            { "no": 16, "name": "Kaşar", "amount": "20", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Et",
+              "amount": "180",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Tuz",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Lif Multifix",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "K.Toz Biber",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Kimyon",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Karabiber",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Kekik",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Toz Karbonat",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Sarımsak",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karamel",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Barbekü",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Yeşil Biber",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Kırmızı Biber",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Kaşar",
+              "amount": "20",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "sarma_2",
           "name": "ROSTO",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Et", "amount": "170", "unit": "Kg" },
-            { "no": 3, "name": "Tuz", "amount": "3", "unit": "Kg" },
-            { "no": 4, "name": "Lif Multifix", "amount": "4", "unit": "Kg" },
-            { "no": 5, "name": "K.Toz Biber", "amount": "1.5", "unit": "Kg" },
-            { "no": 6, "name": "Kimyon", "amount": "1.8", "unit": "Kg" },
-            { "no": 7, "name": "Karabiber", "amount": "1.65", "unit": "Kg" },
-            { "no": 8, "name": "Kekik", "amount": "0.3", "unit": "Kg" },
-            { "no": 9, "name": "Soğan", "amount": "20", "unit": "Kg" },
-            { "no": 10, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 11, "name": "Karamel", "amount": "0.45", "unit": "Kg" },
-            { "no": 12, "name": "Sarımsak Diş", "amount": "0.5", "unit": "Kg" },
-            { "no": 13, "name": "Barbekü", "amount": "1.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Et",
+              "amount": "170",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Tuz",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Lif Multifix",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "K.Toz Biber",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Kimyon",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Karabiber",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Kekik",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Soğan",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Karamel",
+              "amount": "0.45",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Sarımsak Diş",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Barbekü",
+              "amount": "1.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "sarma_3",
           "name": "BEYSARMA",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "190", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "0", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Multifix", "amount": "4", "unit": "Kg" },
-            { "no": 6, "name": "Tuz", "amount": "3.2", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "15", "unit": "Kg" },
-            { "no": 8, "name": "Karabiber", "amount": "1", "unit": "Kg" },
-            { "no": 9, "name": "Kimyon", "amount": "1.8", "unit": "Kg" },
-            { "no": 10, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 11, "name": "K.Toz Biber", "amount": "4", "unit": "Kg" },
-            { "no": 12, "name": "Barbekü Sos", "amount": "1.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "190",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Multifix",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Tuz",
+              "amount": "3.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karabiber",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kimyon",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "K.Toz Biber",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Barbekü Sos",
+              "amount": "1.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "sarma_4",
           "name": "SUCUKLU BEYSARMA",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "80", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Göğüs", "amount": "190", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "0", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif Multifix", "amount": "4", "unit": "Kg" },
-            { "no": 6, "name": "Tuz", "amount": "3.2", "unit": "Kg" },
-            { "no": 7, "name": "Çemen", "amount": "0.65", "unit": "Kg" },
-            { "no": 8, "name": "Sucuk Baharat", "amount": "10", "unit": "Kg" },
-            { "no": 9, "name": "Soğan", "amount": "15", "unit": "Kg" },
-            { "no": 10, "name": "Sarımsak Diş", "amount": "1.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "80",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Göğüs",
+              "amount": "190",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif Multifix",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Tuz",
+              "amount": "3.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Çemen",
+              "amount": "0.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Sucuk Baharat",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Soğan",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sarımsak Diş",
+              "amount": "1.5",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -291,47 +1286,192 @@
           "id": "beef_1",
           "name": "BEEF IZGARA",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Soya", "amount": "12", "unit": "Kg" },
-            { "no": 4, "name": "Karamel", "amount": "6", "unit": "Kg" },
-            { "no": 5, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 6, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" },
-            { "no": 7, "name": "Tuz", "amount": "4", "unit": "Kg" },
-            { "no": 8, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Soya",
+              "amount": "12",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Karamel",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Tuz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "beef_2",
           "name": "BEEF KUŞBAŞI",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Soya", "amount": "12", "unit": "Kg" },
-            { "no": 4, "name": "Karamel", "amount": "6", "unit": "Kg" },
-            { "no": 5, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 6, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" },
-            { "no": 7, "name": "Tuz", "amount": "4", "unit": "Kg" },
-            { "no": 8, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Soya",
+              "amount": "12",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Karamel",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Tuz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "beef_3",
           "name": "HİNDİ KÜLBASTI",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Salça", "amount": "4.3", "unit": "Kg" },
-            { "no": 4, "name": "K.Toz Biber", "amount": "4.2", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "1.25", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.4", "unit": "Kg" },
-            { "no": 7, "name": "Kimyon", "amount": "0.5", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "3", "unit": "Kg" },
-            { "no": 9, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 10, "name": "Sıvı Yağ", "amount": "7", "unit": "Kg" },
-            { "no": 11, "name": "Soğan Toz", "amount": "3", "unit": "Kg" },
-            { "no": 12, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" },
-            { "no": 13, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Salça",
+              "amount": "4.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "K.Toz Biber",
+              "amount": "4.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kimyon",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sıvı Yağ",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soğan Toz",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -344,57 +1484,252 @@
           "id": "but_1",
           "name": "BEEF BUT ÜRÜNLERİ",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "200", "unit": "Kg" },
-            { "no": 3, "name": "Soya", "amount": "15", "unit": "Kg" },
-            { "no": 4, "name": "Karamel", "amount": "6", "unit": "Kg" },
-            { "no": 5, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 6, "name": "Yumuşatıcı", "amount": "2.5", "unit": "Kg" },
-            { "no": 7, "name": "Tuz", "amount": "4", "unit": "Kg" },
-            { "no": 8, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "200",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Soya",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Karamel",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Yumuşatıcı",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Tuz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "but_2",
           "name": "HİNDİ BUT ROSTO / TANDIR",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "500", "unit": "Kg" },
-            { "no": 2, "name": "Sıvı Yağ", "amount": "5", "unit": "Kg" },
-            { "no": 3, "name": "Soğan", "amount": "3", "unit": "Kg" },
-            { "no": 4, "name": "Tuz", "amount": "5", "unit": "Kg" },
-            { "no": 5, "name": "K.Toz Biber", "amount": "2.5", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.25", "unit": "Kg" },
-            { "no": 7, "name": "Kekik", "amount": "0.4", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "1.65", "unit": "Kg" },
-            { "no": 9, "name": "Kimyon", "amount": "0.5", "unit": "Kg" },
-            { "no": 10, "name": "Su", "amount": "110", "unit": "Kg" },
-            { "no": 11, "name": "Soya", "amount": "2.5", "unit": "Kg" },
-            { "no": 12, "name": "Sirke", "amount": "17.5", "unit": "Kg" },
-            { "no": 13, "name": "Karbonat", "amount": "1.25", "unit": "Kg" },
-            { "no": 14, "name": "Et Yumuşatıcı", "amount": "1", "unit": "Kg" },
-            { "no": 15, "name": "İnject", "amount": "4", "unit": "Kg" },
-            { "no": 16, "name": "Sarımsak Diş", "amount": "2.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "500",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Sıvı Yağ",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Tuz",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "K.Toz Biber",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kekik",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kimyon",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Su",
+              "amount": "110",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soya",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Sirke",
+              "amount": "17.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Karbonat",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Et Yumuşatıcı",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "İnject",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Sarımsak Diş",
+              "amount": "2.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "but_3",
           "name": "BUT KUŞBAŞI (ÇÖPŞIŞ SOSLU)",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "500", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "200", "unit": "Kg" },
-            { "no": 3, "name": "Karabiber", "amount": "0.8", "unit": "Kg" },
-            { "no": 4, "name": "Sarımsak", "amount": "1.2", "unit": "Kg" },
-            { "no": 5, "name": "Sirke", "amount": "5", "unit": "Kg" },
-            { "no": 6, "name": "İnject", "amount": "6", "unit": "Kg" },
-            { "no": 7, "name": "Yumuşatıcı", "amount": "1.25", "unit": "Kg" },
-            { "no": 8, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" },
-            { "no": 9, "name": "Kekik", "amount": "0.8", "unit": "Kg" },
-            { "no": 10, "name": "Kimyon", "amount": "1", "unit": "Kg" },
-            { "no": 11, "name": "Zencefil", "amount": "0.6", "unit": "Kg" },
-            { "no": 12, "name": "Karbonat", "amount": "0.5", "unit": "Kg" },
-            { "no": 13, "name": "Soya Sos", "amount": "7", "unit": "Kg" },
-            { "no": 14, "name": "Karamel", "amount": "0.3", "unit": "Kg" },
-            { "no": 15, "name": "Tuz", "amount": "6", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "500",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "200",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Karabiber",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Sarımsak",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Sirke",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "İnject",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Yumuşatıcı",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kekik",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kimyon",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Zencefil",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karbonat",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Soya Sos",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karamel",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Tuz",
+              "amount": "6",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -407,51 +1742,216 @@
           "id": "rus_1",
           "name": "CIZBIZ",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "110", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Et", "amount": "66.3", "unit": "Kg" },
-            { "no": 3, "name": "Su", "amount": "20", "unit": "Kg" },
-            { "no": 4, "name": "Karabiber", "amount": "0.8", "unit": "Kg" },
-            { "no": 5, "name": "Kimyon", "amount": "0.6", "unit": "Kg" },
-            { "no": 6, "name": "Kekik", "amount": "0.3", "unit": "Kg" },
-            { "no": 7, "name": "Sarımsak Tozu", "amount": "2", "unit": "Kg" },
-            { "no": 8, "name": "Soğan", "amount": "10", "unit": "Kg" },
-            { "no": 9, "name": "Galeta", "amount": "10", "unit": "Kg" },
-            { "no": 10, "name": "Maydanoz", "amount": "4", "unit": "Kg" },
-            { "no": 11, "name": "Yeni Bahar", "amount": "0.35", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "110",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Et",
+              "amount": "66.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Su",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Karabiber",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kimyon",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Kekik",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Sarımsak Tozu",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Soğan",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Galeta",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Maydanoz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Yeni Bahar",
+              "amount": "0.35",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "rus_2",
           "name": "PİLİÇ KÜLBASTI SOS",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Zerdeçal", "amount": "0.3", "unit": "Kg" },
-            { "no": 4, "name": "K.Toz Biber", "amount": "4", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "0.9", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.25", "unit": "Kg" },
-            { "no": 7, "name": "Kimyon", "amount": "0.25", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "6", "unit": "Kg" },
-            { "no": 9, "name": "İnject", "amount": "6", "unit": "Kg" },
-            { "no": 10, "name": "Sıvı Yağ", "amount": "7", "unit": "Kg" },
-            { "no": 11, "name": "Sarımsak", "amount": "2.5", "unit": "Kg" },
-            { "no": 12, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Zerdeçal",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "K.Toz Biber",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "0.9",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kimyon",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "İnject",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sıvı Yağ",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Sarımsak",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "rus_3",
           "name": "HİNDİ BUT STEAK (100 KG)",
           "ingredients": [
-            { "no": 1, "name": "Soya", "amount": "2.5", "unit": "Kg" },
-            { "no": 2, "name": "Soda", "amount": "9", "unit": "Kg" },
-            { "no": 3, "name": "Sirke", "amount": "4", "unit": "Kg" },
-            { "no": 4, "name": "Barbekü", "amount": "0.4", "unit": "Kg" },
-            { "no": 5, "name": "K.Toz Tütsü", "amount": "0.4", "unit": "Kg" },
-            { "no": 6, "name": "Zerdeçal", "amount": "0.15", "unit": "Kg" },
-            { "no": 7, "name": "Su", "amount": "24", "unit": "Kg" },
-            { "no": 8, "name": "Kekik", "amount": "0.4", "unit": "Kg" },
-            { "no": 9, "name": "Tuz", "amount": "0.8", "unit": "Kg" },
-            { "no": 10, "name": "İnject", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Soya",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Soda",
+              "amount": "9",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Sirke",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Barbekü",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "K.Toz Tütsü",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Zerdeçal",
+              "amount": "0.15",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Su",
+              "amount": "24",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Kekik",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Tuz",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "İnject",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         },
         {
@@ -459,20 +1959,90 @@
           "name": "RUS KÖFTE",
           "note": "Adet: 35 gr olacak",
           "ingredients": [
-            { "no": 1, "name": "Dana Eti", "amount": "40", "unit": "Kg" },
-            { "no": 2, "name": "Dana Yağ", "amount": "40", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "40", "unit": "Kg" },
-            { "no": 4, "name": "Hindi Kırıntı", "amount": "140", "unit": "Kg" },
-            { "no": 5, "name": "Ekmek", "amount": "15", "unit": "Kg" },
-            { "no": 6, "name": "Kimyon", "amount": "1.1", "unit": "Kg" },
-            { "no": 7, "name": "Karabiber", "amount": "0.75", "unit": "Kg" },
-            { "no": 8, "name": "K.Toz Biber", "amount": "0.9", "unit": "Kg" },
-            { "no": 9, "name": "Soğan Küp", "amount": "12.5", "unit": "Kg" },
-            { "no": 10, "name": "Sarımsak", "amount": "2.5", "unit": "Kg" },
-            { "no": 11, "name": "Tuz", "amount": "3.6", "unit": "Kg" },
-            { "no": 12, "name": "Et Aroması", "amount": "0.9", "unit": "Kg" },
-            { "no": 13, "name": "Lif", "amount": "4", "unit": "Kg" },
-            { "no": 14, "name": "Pirinç (Haşlanmış)", "amount": "65", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Eti",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Dana Yağ",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Hindi Kırıntı",
+              "amount": "140",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Ekmek",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Kimyon",
+              "amount": "1.1",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Karabiber",
+              "amount": "0.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "K.Toz Biber",
+              "amount": "0.9",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Soğan Küp",
+              "amount": "12.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sarımsak",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Tuz",
+              "amount": "3.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Et Aroması",
+              "amount": "0.9",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Lif",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Pirinç (Haşlanmış)",
+              "amount": "65",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -485,61 +2055,276 @@
           "id": "sis_1",
           "name": "HİNDİ BUT ÇÖP ŞİŞ",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "200", "unit": "Kg" },
-            { "no": 3, "name": "Kekik", "amount": "0.8", "unit": "Kg" },
-            { "no": 4, "name": "Tuz", "amount": "5", "unit": "Kg" },
-            { "no": 5, "name": "Kimyon", "amount": "1.2", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.5", "unit": "Kg" },
-            { "no": 7, "name": "Zencefil", "amount": "0.1", "unit": "Kg" },
-            { "no": 8, "name": "Sarımsak", "amount": "3.5", "unit": "Kg" },
-            { "no": 9, "name": "Karbonat", "amount": "0.5", "unit": "Kg" },
-            { "no": 10, "name": "Sirke", "amount": "4", "unit": "Kg" },
-            { "no": 11, "name": "Soya Sos", "amount": "6", "unit": "Kg" },
-            { "no": 12, "name": "İnject", "amount": "5", "unit": "Kg" },
-            { "no": 13, "name": "Karamel", "amount": "0.3", "unit": "Kg" },
-            { "no": 14, "name": "Yumuşatıcı", "amount": "2.5", "unit": "Kg" },
-            { "no": 15, "name": "Koruyucu", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Soğan", "amount": "3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "200",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Kekik",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Tuz",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kimyon",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Zencefil",
+              "amount": "0.1",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Sarımsak",
+              "amount": "3.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Karbonat",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sirke",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soya Sos",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "İnject",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Karamel",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Yumuşatıcı",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Koruyucu",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "sis_2",
           "name": "HİNDİ GÖĞÜS ÇÖP ŞİŞ",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Salça", "amount": "5", "unit": "Kg" },
-            { "no": 4, "name": "K.Toz Biber", "amount": "4", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "0.9", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.2", "unit": "Kg" },
-            { "no": 7, "name": "Kimyon", "amount": "0.25", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "5", "unit": "Kg" },
-            { "no": 9, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 10, "name": "Sıvı Yağ", "amount": "6", "unit": "Kg" },
-            { "no": 11, "name": "Soğan", "amount": "3", "unit": "Kg" },
-            { "no": 12, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" },
-            { "no": 13, "name": "Koruyucu", "amount": "0.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Salça",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "K.Toz Biber",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "0.9",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kimyon",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sıvı Yağ",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Koruyucu",
+              "amount": "0.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "sis_3",
           "name": "PİLİÇ ÇÖP ŞİŞ",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "450", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "225", "unit": "Kg" },
-            { "no": 3, "name": "Zerdeçal", "amount": "0.25", "unit": "Kg" },
-            { "no": 4, "name": "K.Toz Biber", "amount": "4", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "0.9", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.2", "unit": "Kg" },
-            { "no": 7, "name": "Kimyon", "amount": "0.25", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "6", "unit": "Kg" },
-            { "no": 9, "name": "İnject", "amount": "7", "unit": "Kg" },
-            { "no": 10, "name": "Sıvı Yağ", "amount": "6", "unit": "Kg" },
-            { "no": 11, "name": "Sarımsak", "amount": "2.5", "unit": "Kg" },
-            { "no": 12, "name": "Yumuşatıcı", "amount": "1.5", "unit": "Kg" },
-            { "no": 13, "name": "Koruyucu", "amount": "0.5", "unit": "Kg" },
-            { "no": 14, "name": "Soğan", "amount": "3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "450",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "225",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Zerdeçal",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "K.Toz Biber",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "0.9",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kimyon",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "İnject",
+              "amount": "7",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sıvı Yağ",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Sarımsak",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Yumuşatıcı",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Koruyucu",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -552,81 +2337,366 @@
           "id": "doner_1",
           "name": "TAVUK DÖNER OTEL SOS",
           "ingredients": [
-            { "no": 1, "name": "Tavuk Eti", "amount": "540", "unit": "Kg" },
-            { "no": 2, "name": "Su", "amount": "125", "unit": "Kg" },
-            { "no": 3, "name": "Salça", "amount": "2", "unit": "Kg" },
-            { "no": 4, "name": "K.Toz Biber", "amount": "2", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "0.5", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.2", "unit": "Kg" },
-            { "no": 7, "name": "Kimyon", "amount": "0.25", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "4", "unit": "Kg" },
-            { "no": 9, "name": "Sıvı Yağ", "amount": "6", "unit": "Kg" },
-            { "no": 10, "name": "İnject", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Soğan", "amount": "4", "unit": "Kg" },
-            { "no": 12, "name": "Lif", "amount": "4", "unit": "Kg" },
-            { "no": 13, "name": "Sarımsak Diş", "amount": "3", "unit": "Kg" },
-            { "no": 14, "name": "Kapya Biber", "amount": "5", "unit": "Kg" },
-            { "no": 15, "name": "Yeşil Biber", "amount": "2.5", "unit": "Kg" },
-            { "no": 16, "name": "Elma Sirkesi", "amount": "2", "unit": "Kg" },
-            { "no": 17, "name": "Yoğurt", "amount": "20", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Tavuk Eti",
+              "amount": "540",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Su",
+              "amount": "125",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Salça",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "K.Toz Biber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kimyon",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Sıvı Yağ",
+              "amount": "6",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "İnject",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soğan",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Lif",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Sarımsak Diş",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Kapya Biber",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Yeşil Biber",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Elma Sirkesi",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Yoğurt",
+              "amount": "20",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "doner_2",
           "name": "HİNDİ KIYMA DÖNER",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "95", "unit": "Kg" },
-            { "no": 2, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 3, "name": "Hindi Et", "amount": "220", "unit": "Kg" },
-            { "no": 4, "name": "Kuzu Döş", "amount": "60", "unit": "Kg" },
-            { "no": 5, "name": "Kekik", "amount": "0.7", "unit": "Kg" },
-            { "no": 6, "name": "Kimyon", "amount": "0.5", "unit": "Kg" },
-            { "no": 7, "name": "Karabiber", "amount": "0.5", "unit": "Kg" },
-            { "no": 8, "name": "Soğan", "amount": "20", "unit": "Kg" },
-            { "no": 9, "name": "Karamel", "amount": "1.5", "unit": "Kg" },
-            { "no": 10, "name": "Tütsü", "amount": "0.3", "unit": "Kg" },
-            { "no": 11, "name": "Tuz", "amount": "4", "unit": "Kg" },
-            { "no": 12, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" },
-            { "no": 13, "name": "Barbekü Sos", "amount": "1", "unit": "Kg" },
-            { "no": 14, "name": "Kapya Biber", "amount": "2.5", "unit": "Kg" },
-            { "no": 15, "name": "Yeşil Biber", "amount": "2.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "95",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi Et",
+              "amount": "220",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Kuzu Döş",
+              "amount": "60",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Kekik",
+              "amount": "0.7",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Kimyon",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Karabiber",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Soğan",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Karamel",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Tütsü",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Tuz",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Barbekü Sos",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Kapya Biber",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Yeşil Biber",
+              "amount": "2.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "doner_3",
           "name": "ET YAPRAK SOS (100 KG)",
           "ingredients": [
-            { "no": 1, "name": "Dana Et", "amount": "100", "unit": "Kg" },
-            { "no": 2, "name": "Yoğurt", "amount": "10", "unit": "Kg" },
-            { "no": 3, "name": "Süt", "amount": "5", "unit": "Kg" },
-            { "no": 4, "name": "Tuz", "amount": "1.2", "unit": "Kg" },
-            { "no": 5, "name": "Karabiber", "amount": "0.115", "unit": "Kg" },
-            { "no": 6, "name": "Galeta", "amount": "0.8", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "3", "unit": "Kg" },
-            { "no": 8, "name": "Kekik (İri)", "amount": "0.15", "unit": "Kg" },
-            { "no": 9, "name": "Kimyon", "amount": "0.05", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Et",
+              "amount": "100",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Yoğurt",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Süt",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Tuz",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Karabiber",
+              "amount": "0.115",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Galeta",
+              "amount": "0.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Kekik (İri)",
+              "amount": "0.15",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kimyon",
+              "amount": "0.05",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "doner_4",
           "name": "HİNDİ BUT YAPRAK DÖNER",
           "ingredients": [
-            { "no": 1, "name": "Hindi Eti", "amount": "500", "unit": "Kg" },
-            { "no": 2, "name": "Sıvı Yağ", "amount": "5", "unit": "Kg" },
-            { "no": 3, "name": "Soğan", "amount": "3", "unit": "Kg" },
-            { "no": 4, "name": "Tuz", "amount": "5", "unit": "Kg" },
-            { "no": 5, "name": "K.Toz Biber", "amount": "2.5", "unit": "Kg" },
-            { "no": 6, "name": "Karabiber", "amount": "0.25", "unit": "Kg" },
-            { "no": 7, "name": "Kekik", "amount": "0.4", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "1.65", "unit": "Kg" },
-            { "no": 9, "name": "Kimyon", "amount": "0.5", "unit": "Kg" },
-            { "no": 10, "name": "Su", "amount": "125", "unit": "Kg" },
-            { "no": 11, "name": "Soya", "amount": "2.5", "unit": "Kg" },
-            { "no": 12, "name": "Sirke", "amount": "17.5", "unit": "Kg" },
-            { "no": 13, "name": "Karbonat", "amount": "1.25", "unit": "Kg" },
-            { "no": 14, "name": "Et Yumuşatıcı", "amount": "2.5", "unit": "Kg" },
-            { "no": 15, "name": "İnject", "amount": "5", "unit": "Kg" },
-            { "no": 16, "name": "Sarımsak Diş", "amount": "2.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Hindi Eti",
+              "amount": "500",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Sıvı Yağ",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Soğan",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Tuz",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "K.Toz Biber",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Karabiber",
+              "amount": "0.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Kekik",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kimyon",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Su",
+              "amount": "125",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Soya",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Sirke",
+              "amount": "17.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Karbonat",
+              "amount": "1.25",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Et Yumuşatıcı",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "İnject",
+              "amount": "5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Sarımsak Diş",
+              "amount": "2.5",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -639,67 +2709,312 @@
           "id": "chef_1",
           "name": "CHEF HİNDİ HAMBURGER",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Kırıntı", "amount": "190", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "0", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif", "amount": "4", "unit": "Kg" },
-            { "no": 6, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "20", "unit": "Kg" },
-            { "no": 8, "name": "Barbekü", "amount": "3", "unit": "Kg" },
-            { "no": 9, "name": "Karamel", "amount": "1.2", "unit": "Kg" },
-            { "no": 10, "name": "Sarımsak Diş", "amount": "1.5", "unit": "Kg" },
-            { "no": 11, "name": "Et Aroması", "amount": "0.6", "unit": "Kg" },
-            { "no": 12, "name": "T. Kırmızı Biber", "amount": "0.5", "unit": "Kg" },
-            { "no": 13, "name": "Kimyon", "amount": "2.2", "unit": "Kg" },
-            { "no": 14, "name": "Karabiber", "amount": "1.75", "unit": "Kg" },
-            { "no": 15, "name": "Kekik", "amount": "0.5", "unit": "Kg" },
-            { "no": 16, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 17, "name": "Karbonat", "amount": "1", "unit": "Kg" },
-            { "no": 18, "name": "Tütsü", "amount": "0.3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Kırıntı",
+              "amount": "190",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "20",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Barbekü",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Karamel",
+              "amount": "1.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Sarımsak Diş",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Et Aroması",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "T. Kırmızı Biber",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kimyon",
+              "amount": "2.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karabiber",
+              "amount": "1.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Kekik",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 17,
+              "name": "Karbonat",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 18,
+              "name": "Tütsü",
+              "amount": "0.3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "chef_2",
           "name": "CHEF IZGARA / İNEGÖL / MİSKET KÖFTE",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "90", "unit": "Kg" },
-            { "no": 2, "name": "Hindi Kırıntı", "amount": "120", "unit": "Kg" },
-            { "no": 3, "name": "Hindi But", "amount": "0", "unit": "Kg" },
-            { "no": 4, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 5, "name": "Lif", "amount": "4", "unit": "Kg" },
-            { "no": 6, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 7, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 8, "name": "Karamel", "amount": "0.6", "unit": "Kg" },
-            { "no": 9, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 10, "name": "K.Toz Biber", "amount": "3", "unit": "Kg" },
-            { "no": 11, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Karabiber", "amount": "1.75", "unit": "Kg" },
-            { "no": 13, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 14, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 15, "name": "Et Aroması", "amount": "0.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "90",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Hindi Kırıntı",
+              "amount": "120",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Hindi But",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Lif",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Karamel",
+              "amount": "0.6",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "K.Toz Biber",
+              "amount": "3",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Karabiber",
+              "amount": "1.75",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Et Aroması",
+              "amount": "0.5",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "chef_3",
           "name": "CHEF ADANA",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "115", "unit": "Kg" },
-            { "no": 2, "name": "Kuzu Kuyruk", "amount": "10", "unit": "Kg" },
-            { "no": 3, "name": "Kuzu Döş", "amount": "15", "unit": "Kg" },
-            { "no": 4, "name": "Hindi Kırıntı", "amount": "140", "unit": "Kg" },
-            { "no": 5, "name": "Hindi But", "amount": "0", "unit": "Kg" },
-            { "no": 6, "name": "Dana Et", "amount": "0", "unit": "Kg" },
-            { "no": 7, "name": "Lif", "amount": "4", "unit": "Kg" },
-            { "no": 8, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 9, "name": "Kapya Biber", "amount": "25", "unit": "Kg" },
-            { "no": 10, "name": "Karamel", "amount": "0.5", "unit": "Kg" },
-            { "no": 11, "name": "K.Toz Biber", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Tuz", "amount": "3.3", "unit": "Kg" },
-            { "no": 13, "name": "Kimyon", "amount": "1.8", "unit": "Kg" },
-            { "no": 14, "name": "Karabiber", "amount": "1.65", "unit": "Kg" },
-            { "no": 15, "name": "Kekik", "amount": "0.7", "unit": "Kg" },
-            { "no": 16, "name": "Pul Biber", "amount": "3.5", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "115",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Kuzu Kuyruk",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Kuzu Döş",
+              "amount": "15",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Hindi Kırıntı",
+              "amount": "140",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Hindi But",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Dana Et",
+              "amount": "0",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Lif",
+              "amount": "4",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "Kapya Biber",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Karamel",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "K.Toz Biber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Tuz",
+              "amount": "3.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Kimyon",
+              "amount": "1.8",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karabiber",
+              "amount": "1.65",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Kekik",
+              "amount": "0.7",
+              "unit": "Kg"
+            },
+            {
+              "no": 16,
+              "name": "Pul Biber",
+              "amount": "3.5",
+              "unit": "Kg"
+            }
           ]
         }
       ]
@@ -712,63 +3027,288 @@
           "id": "dana_1",
           "name": "DANA HAMBURGER",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "40", "unit": "Kg" },
-            { "no": 2, "name": "Dana Eti", "amount": "215", "unit": "Kg" },
-            { "no": 3, "name": "Multifix Lif", "amount": "10", "unit": "Kg" },
-            { "no": 4, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 5, "name": "Soğan", "amount": "12.5", "unit": "Kg" },
-            { "no": 6, "name": "Su", "amount": "30", "unit": "Kg" },
-            { "no": 7, "name": "Diş Sarımsak", "amount": "1.5", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "3.2", "unit": "Kg" },
-            { "no": 9, "name": "K.Toz Biber", "amount": "0.5", "unit": "Kg" },
-            { "no": 10, "name": "Kimyon", "amount": "1", "unit": "Kg" },
-            { "no": 11, "name": "Karabiber", "amount": "1", "unit": "Kg" },
-            { "no": 12, "name": "Kekik", "amount": "0.4", "unit": "Kg" },
-            { "no": 13, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" },
-            { "no": 14, "name": "Karamel", "amount": "0.1", "unit": "Kg" },
-            { "no": 15, "name": "Barbekü", "amount": "3", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Dana Eti",
+              "amount": "215",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Multifix Lif",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Soğan",
+              "amount": "12.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Su",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Diş Sarımsak",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "3.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "K.Toz Biber",
+              "amount": "0.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kimyon",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Karabiber",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Kekik",
+              "amount": "0.4",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karamel",
+              "amount": "0.1",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Barbekü",
+              "amount": "3",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "dana_2",
           "name": "DANA EL BASMA",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "40", "unit": "Kg" },
-            { "no": 2, "name": "Dana Eti", "amount": "215", "unit": "Kg" },
-            { "no": 3, "name": "Multifix Lif", "amount": "10", "unit": "Kg" },
-            { "no": 4, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 5, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 6, "name": "Su", "amount": "30", "unit": "Kg" },
-            { "no": 7, "name": "Diş Sarımsak", "amount": "2.5", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "3.2", "unit": "Kg" },
-            { "no": 9, "name": "K.Toz Biber", "amount": "1.5", "unit": "Kg" },
-            { "no": 10, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 11, "name": "Karabiber", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 13, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" },
-            { "no": 14, "name": "Maydanoz", "amount": "40", "unit": "Kg" },
-            { "no": 15, "name": "Karamel", "amount": "0.1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Dana Eti",
+              "amount": "215",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Multifix Lif",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Su",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Diş Sarımsak",
+              "amount": "2.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "3.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "K.Toz Biber",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Karabiber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Maydanoz",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Karamel",
+              "amount": "0.1",
+              "unit": "Kg"
+            }
           ]
         },
         {
           "id": "dana_3",
           "name": "DANA MİSKET",
           "ingredients": [
-            { "no": 1, "name": "Dana Yağ", "amount": "40", "unit": "Kg" },
-            { "no": 2, "name": "Dana Eti", "amount": "215", "unit": "Kg" },
-            { "no": 3, "name": "Multifix Lif", "amount": "10", "unit": "Kg" },
-            { "no": 4, "name": "Ekmek", "amount": "30", "unit": "Kg" },
-            { "no": 5, "name": "Soğan", "amount": "25", "unit": "Kg" },
-            { "no": 6, "name": "Su", "amount": "30", "unit": "Kg" },
-            { "no": 7, "name": "Toz Karbonat", "amount": "1.5", "unit": "Kg" },
-            { "no": 8, "name": "Tuz", "amount": "3.2", "unit": "Kg" },
-            { "no": 9, "name": "K.Toz Biber", "amount": "1.5", "unit": "Kg" },
-            { "no": 10, "name": "Kimyon", "amount": "2", "unit": "Kg" },
-            { "no": 11, "name": "Karabiber", "amount": "2", "unit": "Kg" },
-            { "no": 12, "name": "Kekik", "amount": "1", "unit": "Kg" },
-            { "no": 13, "name": "Et Aroması", "amount": "0.3", "unit": "Kg" },
-            { "no": 14, "name": "Karamel", "amount": "0.1", "unit": "Kg" },
-            { "no": 15, "name": "Sarımsak", "amount": "1", "unit": "Kg" }
+            {
+              "no": 1,
+              "name": "Dana Yağ",
+              "amount": "40",
+              "unit": "Kg"
+            },
+            {
+              "no": 2,
+              "name": "Dana Eti",
+              "amount": "215",
+              "unit": "Kg"
+            },
+            {
+              "no": 3,
+              "name": "Multifix Lif",
+              "amount": "10",
+              "unit": "Kg"
+            },
+            {
+              "no": 4,
+              "name": "Ekmek",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 5,
+              "name": "Soğan",
+              "amount": "25",
+              "unit": "Kg"
+            },
+            {
+              "no": 6,
+              "name": "Su",
+              "amount": "30",
+              "unit": "Kg"
+            },
+            {
+              "no": 7,
+              "name": "Toz Karbonat",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 8,
+              "name": "Tuz",
+              "amount": "3.2",
+              "unit": "Kg"
+            },
+            {
+              "no": 9,
+              "name": "K.Toz Biber",
+              "amount": "1.5",
+              "unit": "Kg"
+            },
+            {
+              "no": 10,
+              "name": "Kimyon",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 11,
+              "name": "Karabiber",
+              "amount": "2",
+              "unit": "Kg"
+            },
+            {
+              "no": 12,
+              "name": "Kekik",
+              "amount": "1",
+              "unit": "Kg"
+            },
+            {
+              "no": 13,
+              "name": "Et Aroması",
+              "amount": "0.3",
+              "unit": "Kg"
+            },
+            {
+              "no": 14,
+              "name": "Karamel",
+              "amount": "0.1",
+              "unit": "Kg"
+            },
+            {
+              "no": 15,
+              "name": "Sarımsak",
+              "amount": "1",
+              "unit": "Kg"
+            }
           ]
         }
       ]
